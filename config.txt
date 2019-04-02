@@ -1,0 +1,6 @@
+owner=510087122095570965
+prefix=R
+game=By,Torky
+stayinchannel=true
+songinstatus=false
+token=NTYyNDMxNDkwMzAzMTk3MTg0.XKKrKQ.oB-F-JtQLMCLPLGGcZPcXSdeIGI
