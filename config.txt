@@ -1,5 +1,5 @@
 owner=510087122095570965
-prefix=R
+prefix=K
 game=By,Torky
 stayinchannel=true
 songinstatus=false
